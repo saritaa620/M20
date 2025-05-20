@@ -1,8 +1,10 @@
 {
-  "titol": "Pokemon: Pikachu, Kore Nan no Kagi?",
-  "sinopsis": "A thrilling tale in which a group of innocent pokemon get sucked into a world full of keys only to find themselves trapped. Will they ever escape?",
-  "puntuacio": 6.33,
-  "episodis": 1,
-  "url": "https://myanimelist.net/anime/21571/Pokemon__Pikachu_Kore_Nan_no_Kagi",
+  "titol": "Kaichuu!",
+  "sinopsis": "Tachikawa Tetsuya is a freshman at a new high school and he wants to become a great archer, like his late grandfather, Fudou.
+
+One day, a new transfer student joins his class. In a surprise to everyone, it is a cute girl and not a guy like the rumors were saying... The name is Sasaki Gonzaburou, and... "she"... or maybe "he"... well, this person has some "little" secrets.",
+  "puntuacio": 5.79,
+  "episodis": 4,
+  "url": "https://myanimelist.net/anime/9205/Kaichuu",
   "any_estrenat": "None"
 }
